@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-color: #5AE2E2;
+  width: 100%;
+  height: 100%;
+
 }
 
 .App-logo {
@@ -36,3 +40,10 @@
     transform: rotate(360deg);
   }
 }
+
+.link{
+  color: #003323;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 525;
+}
+
